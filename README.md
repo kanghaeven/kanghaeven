@@ -62,4 +62,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHwan-dev&hide_border=true&layout=compact&theme=react&bg_color=0d1017" alt="Top Languages" height="150px" />
 </p>
 
+pip install -r requirements.txt
+uvicorn main:app --reload
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
+
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
+
 
