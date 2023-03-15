@@ -65,8 +65,5 @@
 pip install -r requirements.txt
 uvicorn main:app --reload
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
-
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
-
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goqls10602)](https://solved.ac/goqls10602/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=goqls10602&theme=cold)
