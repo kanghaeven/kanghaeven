@@ -43,6 +43,13 @@
   ![Static Badge](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
+- Collaborations <br>
+  ![Static Badge](https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/notion-000000?logo=notion)
+  ![Static Badge](https://img.shields.io/badge/jira-0052CC?logo=jira)
+
+
+
 <br>
 
 </div>
