@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" width="668.26" height="448.87" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 668.26 448.87">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 50px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon id="path02" class="cls-1" points="592.03 55.62 617.16 55.62 23.24 406.86 23.24 405.84 592.03 55.62"/>
+    </clipPath>
+  </defs>
+  <g id="line02">
+    <g class="cls-3">
+      <line id="line" class="cls-2" x1="654.87" y1="21.12" x2="13.38" y2="427.76"/>
+    </g>
+  </g>
+</svg>

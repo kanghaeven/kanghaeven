@@ -13,28 +13,25 @@
     <a target="_blank" href="mailto:meerhae@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>  
 </div>
 
-
-
-
 <!--기술 스택-->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" alt="Mechanical Arm" width="2.3%" /> Skills
+
 <a href="https://github.com/kanghaeven/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanghaeven&layout=compact&theme=buefy&hide_border=true" /></a>
 
 **Language**<br>
 
 - ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-squaree&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-squaree&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-squaree&logo=css3&logoColor=white)
-
+  ![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-squaree&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white)
+  ![html5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-squaree&logo=html5&logoColor=white)
+  ![css3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-squaree&logo=css3&logoColor=white)
 
 **Technical Skills & Technologies** <br>
 
 - Front-end frameworks & libraries <br>
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
+  ![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
 
 <!--
 - State Management Tools <br>
@@ -43,22 +40,21 @@
 -->
 
 - Front-end UI frameworks & libraries <br>
-![Static Badge](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=white)
-![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-<br> 
+<br>
 
 </div>
 
-  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="2.3%" /> Education
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="2.3%" /> Education
 
-`SSAFY 삼성 청년 소프트웨어 아카데미 9기` 2023.01 ~ 
+`SSAFY 삼성 청년 소프트웨어 아카데미 9기` 2023.01 ~
 
 <br>
 
 <!--프로젝트-->
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="2.3%" /> Projects
 
 <table>
@@ -95,7 +91,7 @@
        <td rowspan="2">UIUX Design & <br>Web Publishing</td>
        <td><a href="">원소주 BX 사이트 구현</a></td>
        <td>2022.08 ~ 2022.09 <br>(8 weeks)</td>
-       <td>웹 디자인 및 퍼블리싱</td>
+       <td>웹 디자인 및 퍼블리싱</td>
        <td>HTML5 CSS3</td>
      </tr>
      <tr>
@@ -111,4 +107,4 @@
 
 #### Algorithm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goqls10602)](https://solved.ac/goqls10602/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goqls10602)](https://solved.ac/goqls10602/)
