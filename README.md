@@ -83,7 +83,7 @@
        <td><a href="https://github.com/JobGPT/JobGPT">JobGPT <br>회사 정보 수집 ∙ 제공 서비스</td>
        <td>2023.06 ~ 2023.07 <br>(5 weeks)</td>
        <td>회원 관리 기능 및 화면 구현</td>
-       <td>React Zustand Bootstrap</td>
+       <td>React Bootstrap</td>
      </tr>
      <tr>
        <td><a href="">MovieMingle <br>영화 추천 서비스</td>
