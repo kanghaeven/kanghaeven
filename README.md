@@ -90,7 +90,7 @@
      <tr>
        <td rowspan="2">UIUX Design & <br>Web Publishing</td>
        <td><a href="https://github.com/kanghaeven/WONSOJU_BX">원소주 BX <br>정적 웹 사이트 구현</a></td>
-       <td>2022.08 ~ 2022.09 <br>+ 2022.12 (8 weeks)</td>
+       <td>2022.08 ~ 2022.09 <br>+ 2022.12 (12 weeks)</td>
        <td>웹 디자인 및 퍼블리싱</td>
        <td>HTML5 CSS3</td>
      </tr>
