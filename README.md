@@ -89,13 +89,13 @@
      </tr>
      <tr>
        <td rowspan="2">UIUX Design & <br>Web Publishing</td>
-       <td><a href="https://github.com/kanghaeven/WONSOJU_BX">원소주 BX 사이트 구현</a></td>
+       <td><a href="https://github.com/kanghaeven/WONSOJU_BX">원소주 BX <br>정적 웹 사이트 구현</a></td>
        <td>2022.08 ~ 2022.09 <br>(8 weeks)</td>
        <td>웹 디자인 및 퍼블리싱</td>
        <td>HTML5 CSS3</td>
      </tr>
      <tr>
-       <td><a href="https://www.behance.net/gallery/158137833/Cake-Redesign-language-learning-social-app">CAKE 언어 학습 앱 리디자인</a></td>
+       <td><a href="https://www.behance.net/gallery/158137833/Cake-Redesign-language-learning-social-app">CAKE 언어 학습 앱 <br>리디자인</a></td>
        <td>2022.10 ~ 2022.11 <br>(8 weeks)</td>
        <td>UI/UX 개선</td>
        <td>Figma</td>
