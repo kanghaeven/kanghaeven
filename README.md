@@ -79,7 +79,7 @@
        <td><a href="https://github.com/JobGPT/JobGPT">JobGPT <br>회사 정보 수집 ∙ 제공 서비스</td>
        <td>2023.06 ~ 2023.07 <br>(5 weeks)</td>
        <td>회원 관리 기능 및 화면 구현</td>
-       <td>React Bootstrap</td>
+       <td>React</td>
      </tr>
      <tr>
        <td><a href="">MovieMingle <br>영화 추천 서비스</td>
@@ -89,7 +89,7 @@
      </tr>
      <tr>
        <td rowspan="2">UIUX Design & <br>Web Publishing</td>
-       <td><a href="">원소주 BX 사이트 구현</a></td>
+       <td><a href="https://github.com/kanghaeven/WONSOJU_BX">원소주 BX 사이트 구현</a></td>
        <td>2022.08 ~ 2022.09 <br>(8 weeks)</td>
        <td>웹 디자인 및 퍼블리싱</td>
        <td>HTML5 CSS3</td>
