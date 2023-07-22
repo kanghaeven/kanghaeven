@@ -1,88 +1,114 @@
-<div align="center">
-<!-- 
-<h3>🍀 Me 🍀</h3>
-<p><a href="https://eunhee-programming.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
-<p>Hi There! I'm a frontEnd developer.</p>
-<p> My main skills are HTML, CSS, JavaScript, React and TypeScript</p>
-<p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
-  
-#
-<h3>❤️ I love...</h3>
-<p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games</p>
-  
-#
-<h3>🔥 Tech Stack 🔥</h3>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/></p>
+<!--인사-->
+<h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Hello world!</h1>
+<!--소개-->
+<h3><b>사용자 경험 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium-Light Skin Tone" width="2.35%" /></b> 을 생각하는 <br>
+  <b>  프론트엔드 개발자</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2.35%" /> <br>
+  강해빈 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="24" height="24" /></h3><br>
 
-<p><img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/></p>
-
-<p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bitbucket-white?style=flat&logo=Bitbucket&logoColor=0052CC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=Confluence&logoColor=172B4D"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Jira-green?style=flat&logo=Jira&logoColor=0052CC"/></p>
-  
-#
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-
+<!--링크-->
+<div align="end">
+    <a target="_blank" href="https://velog.io/@kanghaeven"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=Velog&logoColor=white" /></a>
+    <a target="_blank" href="https://jet-magnesium-b5a.notion.site/PORTFOLIO-e0b89103ba144876925dd29155dc700c?pvs=4"><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a>
+    <a target="_blank" href="mailto:aubrienid@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white" /></a>
+    <a target="_blank" href="mailto:meerhae@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>  
 </div>
 
 
 
-<div align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white(https://www.instagram.com/kanghaeven)" align="right" />
-  </a>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkanghaeven&count_bg=%23769CDD&title_bg=%238E8E8E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right" />
-  </a>
+
+<!--기술 스택-->
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" alt="Mechanical Arm" width="2.3%" /> Skills
+<a href="https://github.com/kanghaeven/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanghaeven&layout=compact&theme=buefy&hide_border=true" /></a>
+
+**Language**<br>
+
+- ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-squaree&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-squaree&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-squaree&logo=css3&logoColor=white)
+
+
+**Technical Skills & Technologies** <br>
+
+- Front-end frameworks & libraries <br>
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
+
+<!--
+- State Management Tools <br>
+![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
+-->
+
+- Front-end UI frameworks & libraries <br>
+![Static Badge](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=white)
+![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+<br> 
+
 </div>
 
+  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="2.3%" /> Education
+---
 
-<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> I'm 강해빈</h2>
+`SSAFY 삼성 청년 소프트웨어 아카데미 9기` 2023.01 ~ 
 
-[**꾸준한 학습**](#)을 통해 [**지속성장**](#)하는 **프론트엔드 개발자**입니다.  
-[**사회적 문제**](#) 그리고 [**비즈니스 문제**](#)를 [**해결**](#)하는 개발자로 성장하기 위해 끊임없이 노력합니다.
+<br>
 
-> [**노션**](https://노션링크)에서 저의 이력을 확인하실 수 있습니다. (2023.00. 업데이트)
+<!--프로젝트-->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="2.3%" /> Projects
 
-> :mailbox_with_mail: E-mail : meerhae@gmail.com
+<table>
+   <thead>
+     <tr style="text-align: center;">
+       <td>분야</td>
+       <td>프로젝트</td>
+       <td>기간</td>
+       <td>맡은 역할</td>
+       <td>기술 스택</td>
+     </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td rowspan="3">Web Programming</td>
+       <td><a href="">~<br>큐레이션 ∙ 소셜 네트워크 서비스</a></td>
+       <td>2023.07 ~ 2023.08 <br>(~ weeks)</td>
+       <td>~</td>
+       <td>React Tailwind</td>
+     </tr>
+     <tr>
+       <td><a href="https://github.com/JobGPT/JobGPT">JobGPT <br>회사 정보 수집 ∙ 제공 서비스</td>
+       <td>2023.06 ~ 2023.07 <br>(5 weeks)</td>
+       <td>회원 관리 기능 및 화면 구현</td>
+       <td>React Zustand Bootstrap</td>
+     </tr>
+     <tr>
+       <td><a href="">MovieMingle <br>영화 추천 서비스</td>
+       <td>2023.05 <br>(2 weeks)</td>
+       <td>예고편 영상 출력 및 화면 구현</td>
+       <td>Vue Bootstrap</td>
+     </tr>
+     <tr>
+       <td rowspan="2">UIUX Design & <br>Web Publishing</td>
+       <td><a href="">원소주 BX 사이트 구현</a></td>
+       <td>2022.08 ~ 2022.09 <br>(8 weeks)</td>
+       <td>웹 디자인 및 퍼블리싱</td>
+       <td>HTML5 CSS3</td>
+     </tr>
+     <tr>
+       <td><a href="https://www.behance.net/gallery/158137833/Cake-Redesign-language-learning-social-app">CAKE 언어 학습 앱 리디자인</a></td>
+       <td>2022.10 ~ 2022.11 <br>(8 weeks)</td>
+       <td>UI/UX 개선</td>
+       <td>Figma</td>
+     </tr>
+  </tbody>
+</table>
+         
+<br>
 
-<img src="./img/coding.gif" alt="Coding" height="200px" />
+#### Algorithm
 
-
-
-## Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&style=flat-square&logo=redux&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?&style=flat-square&logo=Next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white) ![Vuex](https://img.shields.io/badge/-Vuex-34495e?&style=flat-square&logo=Vue.js&logoColor=white)
- -->
-
-<!-- ## Experience
-<details open>
-<summary>😉 2021 History</summary>
-🏃‍♀<a href="https://www.sktelecom.com/index_en.html"> SK telecom, Core department </a> <br/>
-🌼<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp"> Samsung SW Academy For Youth 5th in Seoul </a> <br/>
-</details>
-<details markdown="1">
-<summary>2020 History</summary>
-<p>
-🏆<a href="https://www.youtube.com/watch?v=nR2TqMuPBzE&feature=youtu.be"> PaaS-TA Service Development - NHN Special award by LiveMD (2020.12.11)</a> <br/> 
-🏆 NAVER CLOUD PLATFORM Korea-Health-Datathon Sinusitis - 16th by Amolecular (2020.09.25) <br/>
-🏃‍♀️ Completed Education of Microservice Architect for Cloud Service (2020.07.06 - 12.04) <br/>
-🕺 <a href="http://bigjob.dbguide.net/"> Completed Education of KData Data Youth Campus (2020.07.06 - 09.11) </a><br/>
-🏃‍♂️ Completed Education of KISA Insurtech data analysis course (2020.06.22 - 06.26) <br/>
-📜 Certificated SQL developer (2020.05.31) <br/>
-</p>
-</details>
- -->
-
-<!-- 
-## 📚 Education
-
-- **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01. ~ 2023.12.) [:link:]((https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp))
-- **designNAS** - 디자인나스 UIUX 디자인 아카데미 (2022.04. ~ 2022.12.) [:link:](https://www.designnas.com/)
- -->
-
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goqls10602)](https://solved.ac/goqls10602/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=goqls10602&theme=cold)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goqls10602)](https://solved.ac/goqls10602/)  
