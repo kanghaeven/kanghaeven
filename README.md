@@ -89,7 +89,7 @@
      <tr>
        <td><a href="https://github.com/JobGPT/JobGPT">JobGPT <br>회사 정보 수집 ∙ 제공 서비스</td>
        <td>2023.06 ~ 2023.07 <br>(5 weeks)</td>
-       <td>회원 관리 기능 및 화면 구현</td>
+       <td>회원가입 로그인 기능 및 화면 구현</td>
        <td>React</td>
      </tr>
      <tr>
