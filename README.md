@@ -81,13 +81,13 @@
      </tr>
      <tr>
        <td rowspan="2">Web Programming</td>
-       <td><a href="">Petmily<br>반려동물 큐레이션 ∙ 소셜 네트워크 서비스</a></td>
+       <td><a href="">Petmily<br>반려동물 큐레이션 ∙ <br>소셜 네트워크 서비스</a></td>
        <td>2023.07 ~ 2023.08 <br>(7 weeks)</td>
        <td>실시간 1:1 채팅, <br>이미지 파일 통신, <br>소셜 네트워크 <br>기능 및 화면 구현</td>
        <td>React Recoil Tailwind css</td>
      </tr>
      <tr>
-       <td><a href="https://github.com/JobGPT/JobGPT">JobGPT <br>회사 정보 수집 ∙ 제공 서비스</td>
+       <td><a href="https://github.com/JobGPT/JobGPT">JobGPT <br>회사 정보 수집 ∙ <br>제공 서비스</td>
        <td>2023.06 ~ 2023.07 <br>(5 weeks)</td>
        <td>회원가입 로그인 <br>기능 및 화면 구현</td>
        <td>React</td>
