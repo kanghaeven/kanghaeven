@@ -31,13 +31,10 @@
 
 - Front-end frameworks & libraries <br>
   ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
-  ![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
 
-<!--
 - State Management Tools <br>
-![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
--->
+  ![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=flat-squaree&logo=recoil&logoColor=white)
 
 - Front-end UI frameworks & libraries <br>
   ![Static Badge](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=white)
@@ -75,12 +72,18 @@
      </tr>
    </thead>
    <tbody>
-     <tr>
+      <tr>
        <td rowspan="3">Web Programming</td>
-       <td><a href="">~<br>큐레이션 ∙ 소셜 네트워크 서비스</a></td>
-       <td>2023.07 ~ 2023.08 <br>(~ weeks)</td>
+       <td><a href="">~<br>핀테크</a></td>
+       <td>2023.08 ~ 2023.10 <br>(7 weeks)</td>
        <td>~</td>
-       <td>React Tailwind</td>
+       <td>React Native</td>
+     </tr>
+     <tr>
+       <td><a href="">Petmily<br>반려동물 큐레이션 ∙ 소셜 네트워크 서비스</a></td>
+       <td>2023.07 ~ 2023.08 <br>(7 weeks)</td>
+       <td>실시간 1:1 채팅, 소셜 네트워크 기능 및 화면 구현</td>
+       <td>React Tailwind css</td>
      </tr>
      <tr>
        <td><a href="https://github.com/JobGPT/JobGPT">JobGPT <br>회사 정보 수집 ∙ 제공 서비스</td>
