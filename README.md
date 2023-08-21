@@ -73,7 +73,7 @@
    </thead>
    <tbody>
       <tr>
-       <td rowspan="4">Web Programming</td>
+       <td rowspan="3">Web Programming</td>
        <td><a href="">~<br>핀테크</a></td>
        <td>2023.08 ~ 2023.10 <br>(7 weeks)</td>
        <td>~</td>
@@ -83,19 +83,13 @@
        <td><a href="">Petmily<br>반려동물 큐레이션 ∙ 소셜 네트워크 서비스</a></td>
        <td>2023.07 ~ 2023.08 <br>(7 weeks)</td>
        <td>실시간 1:1 채팅, 소셜 네트워크 기능 및 화면 구현</td>
-       <td>React Tailwind css</td>
+       <td>React Recoil Tailwind css</td>
      </tr>
      <tr>
        <td><a href="https://github.com/JobGPT/JobGPT">JobGPT <br>회사 정보 수집 ∙ 제공 서비스</td>
        <td>2023.06 ~ 2023.07 <br>(5 weeks)</td>
        <td>회원 관리 기능 및 화면 구현</td>
        <td>React</td>
-     </tr>
-     <tr>
-       <td><a href="">MovieMingle <br>영화 추천 서비스</td>
-       <td>2023.05 <br>(2 weeks)</td>
-       <td>예고편 영상 출력 및 화면 구현</td>
-       <td>Vue Bootstrap</td>
      </tr>
      <tr>
        <td rowspan="2">UIUX Design & <br>Web Publishing</td>
