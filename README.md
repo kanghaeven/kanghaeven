@@ -73,7 +73,7 @@
    </thead>
    <tbody>
       <tr>
-       <td rowspan="3">Web Programming</td>
+       <td rowspan="4">Web Programming</td>
        <td><a href="">~<br>핀테크</a></td>
        <td>2023.08 ~ 2023.10 <br>(7 weeks)</td>
        <td>~</td>
