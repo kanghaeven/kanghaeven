@@ -8,7 +8,7 @@
 <!--링크-->
 <div align="end">
     <a target="_blank" href="https://velog.io/@kanghaeven"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=Velog&logoColor=white" /></a>
-    <a target="_blank" href="https://jet-magnesium-b5a.notion.site/PORTFOLIO-e0b89103ba144876925dd29155dc700c?pvs=4"><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a>
+<!--     <a target="_blank" href="https://jet-magnesium-b5a.notion.site/PORTFOLIO-e0b89103ba144876925dd29155dc700c?pvs=4"><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a> -->
     <a target="_blank" href="mailto:aubrienid@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white" /></a>
     <a target="_blank" href="mailto:meerhae@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>  
 </div>
