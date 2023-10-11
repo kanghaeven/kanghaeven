@@ -53,7 +53,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="2.3%" /> Education
 
-`SSAFY 삼성 청년 소프트웨어 아카데미 9기` 2023.01 ~
+`SSAFY 삼성 청년 소프트웨어 아카데미 9기` 2023.01 ~ 2023.12
 
 <br>
 
@@ -74,7 +74,7 @@
    <tbody>
      <tr>
        <td rowspan="1">App Programming</td>
-       <td><a href="">소비 분석 게이미피케이션 서비스</a></td>
+       <td><a href="https://github.com/kanghaeven/Gudgement">소비 분석 게이미피케이션 서비스</a></td>
        <td>2023.08 ~ 2023.10 <br>(7 weeks)</td>
        <td>회원 관리, 데이터 시각화 기능 및 화면 구현</td>
        <td>React Native React Query TypeScript Tailwind css</td>
