@@ -1,8 +1,8 @@
 <!--인사-->
 <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Hello world!</h1>
 <!--소개-->
-<h3><b>사용자 경험 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium-Light Skin Tone" width="2.35%" /></b> 을 생각하는 <br>
-  <b>  프론트엔드 개발자</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2.35%" /> <br>
+<h3><b>사용자 경험 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium-Light Skin Tone" width="2.35%" /></b> 을 생각하는<br>
+  <b>디지털 전문가</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2.35%" /> <br>
   강해빈 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="24" height="24" /></h3><br>
 
 <!--링크-->
